@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krishnareddyib
-- 👀 I’m interested in aws,devops,datascience
+- 👀 I’m interested in Aws, DevOps, ML & Datascience
 - 🌱 I’m in
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
